@@ -1429,5 +1429,9 @@ footer {
     width: 28px;
     height: 28px;
   }
+  
+   .paginations {
+    display: block;
+  }
 }
 /* End Media Query */
